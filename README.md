@@ -46,10 +46,10 @@ OK, the Blynk Web Dashboard is now ready
 
 # Output:
 
-#LCD Display
+# LCD Display
 ![lcd](https://github.com/Rakshita2003/Weather-Monitoring-System/assets/101338848/4cc18947-eda5-4a81-a648-1a60e9da21f9)
 
-#Blynk Dashboard
+# Blynk Dashboard
 ![blynk](https://github.com/Rakshita2003/Weather-Monitoring-System/assets/101338848/e0fb0312-595e-48b2-884b-4257ee9e8d7e)
 
 (Note: A video of this project is added)
