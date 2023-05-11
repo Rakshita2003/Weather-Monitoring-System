@@ -1,10 +1,10 @@
 # Weather Monitoring System using the Nodemcu ESP8266 board and the New Blynk app
 
-Block Diagram:
+# Block Diagram:
 
 ![block diagram](https://github.com/Rakshita2003/Weather-Monitoring-System/assets/101338848/74033ad4-f276-4920-904f-12e3d9477399)
 
-Circuit Diagram:
+# Circuit Diagram:
 
 ![circuit diagram](https://github.com/Rakshita2003/Weather-Monitoring-System/assets/101338848/8aeb7c41-ec17-47c7-9998-fe032ba4d7dc)
 
